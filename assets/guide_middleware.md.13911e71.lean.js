@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,N as l}from"./chunks/framework.46d921ef.js";const i=JSON.parse('{"title":"中间件","description":"","frontmatter":{},"headers":[],"relativePath":"guide/middleware.md"}'),o={name:"guide/middleware.md"},p=l("",5),e=[p];function t(c,D,r,F,y,A){return a(),n("div",null,e)}const u=s(o,[["render",t]]);export{i as __pageData,u as default};
