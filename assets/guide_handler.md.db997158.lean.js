@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,N as l}from"./chunks/framework.b74c2b66.js";const i=JSON.parse('{"title":"处理器","description":"","frontmatter":{},"headers":[],"relativePath":"guide/handler.md"}'),o={name:"guide/handler.md"},p=l("",7),e=[p];function t(c,r,D,F,y,A){return a(),n("div",null,e)}const d=s(o,[["render",t]]);export{i as __pageData,d as default};
